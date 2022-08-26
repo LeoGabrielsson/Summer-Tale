@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+.head{
+    text-align: center;
+}
+.container{
+    background-color: orange;
+    margin: 2rem
+    
+}
+.bild{
+    display: flex;
+}
